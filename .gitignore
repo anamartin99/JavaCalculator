@@ -6,7 +6,7 @@ Java
 *.jar
 *.war
 *.ear
-.nar
+*.nar
 hs_err_pid
 
 ##############################
@@ -82,3 +82,4 @@ Visual Studio Code
 OS X
 ##############################
 .DS_Store# JavaActivityCalculator
+# JavaActivityCalculator
